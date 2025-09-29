@@ -1,5 +1,5 @@
 # Decimal2Binary
-![Image of the Decimal2Binary game running on FPGA](https://github.com/ibyteibit/Decimal2Binary/blob/main/Screenshot%202025-08-29%20221302.png)
+![Image of the Decimal2Binary game running on FPGA](https://github.com/ibyteibit/Decimal2Binary/blob/main/pics/LabeledFPGA.png)
 
 ## Description
 - A Verilog & FPGA game challenging players to convert decimal numbers (base 10) to binary (base 2) in a limited time
@@ -14,4 +14,4 @@
 - Collaborated closely with my teammate to efficiently integrate my game logic with his 7-seg display code
 - Developed testbench files to simulate individual modules without synthesizing the design, see [sim](https://github.com/ibyteibit/Decimal2Binary/tree/main/sim)
 
-![Image of Verilog level logic](https://github.com/ibyteibit/Decimal2Binary/blob/main/Screenshot%202025-08-29%20220514.png)
+![Image of Verilog level logic](https://github.com/ibyteibit/Decimal2Binary/blob/main/pics/Verilog.png)
