@@ -12,6 +12,6 @@
 - Designed a hardware-based Random Number Generator using a rapidly-incremented counter reg and modulo to select values for each level (below)
 - Incorporated a clock divider for the timer and debouncers for the two buttons
 - Collaborated closely with my teammate to efficiently integrate my game logic with his 7-seg display code
-- Developed testbench files to simulate individual modules without synthesizing the design, see [sim](https://github.com/ibyteibit/Decimal2Binary/tree/main/sim)
+- Developed [testbench files](https://github.com/ibyteibit/Decimal2Binary/tree/main/sim) to simulate individual modules without synthesizing the design.
 
 ![Image of Verilog level logic](https://github.com/ibyteibit/Decimal2Binary/blob/main/pics/Verilog.png)
