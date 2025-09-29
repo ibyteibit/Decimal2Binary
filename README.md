@@ -1,4 +1,4 @@
-# Decimal2Binary
+# Decimal2Binary - *Logic Design Class Final Project*
 ![Image of the Decimal2Binary game running on FPGA](https://github.com/ibyteibit/Decimal2Binary/blob/main/pics/LabeledFPGA.png)
 
 ## Description
